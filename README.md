@@ -1,2 +1,2 @@
 # my_daily_wages
-This application is an option to all others using this application to find out these daily waged workers for their home / office based daily wise jobs.
+A website/App provide an interface for all to find out daily waged workers for their home / office based daily wise jobs and wise-versa
